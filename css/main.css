@@ -24,7 +24,7 @@ html {
   position: absolute;
   width: 28px;
 }
-s
+
 .hand {
   bottom: calc(50% - 8px);
   left: calc(50% - 7px);
@@ -51,4 +51,5 @@ s
   100% {
     transform: rotate(360deg);
   }
+
 }
